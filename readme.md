@@ -23,8 +23,6 @@ latitude e longitude devem conter apenas 5 casas decimais
 os ids da escola devem todos ser strings com 3 caracteres (Ex: '024')
 Desafio:
 
-Entregar um plot com a representação da melhor rota que você encontrou, por exemplo:
-
-![Alt text](image.png)
+Entregar um plot com a representação da melhor rota que você encontrou.
 
 Obs: O otimizador não é a parte mais importante do projeto. Foque no tratamento dos dados e se preciso, pode reduzir a quantidade de escolas para rodar o otimizador.
