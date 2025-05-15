@@ -1,4 +1,4 @@
-# Relatório do Projeto: Otimização da Distribuição de Materiais Didáticos no Rio de Janeiro
+# Otimização da Distribuição de Materiais Didáticos no Rio de Janeiro
 
 
 Este projeto foi desenvolvido para uma consultoria de dados, com o objetivo de otimizar a logística de distribuição de materiais didáticos para as escolas da cidade do Rio de Janeiro. A tarefa principal envolveu o tratamento e a padronização de dados provenientes de diversas fontes, seguida pela definição de uma rota otimizada para a entrega dos materiais.
